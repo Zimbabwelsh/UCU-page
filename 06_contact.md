@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
+title: Contacts
 permalink: /Contact/
 ---
 
-You can get in contact with the PHS representatives here:
+You can get in contact with the PHS UCU representatives here:
 
 Integrative Epidemiology Unit Representatives:
 
