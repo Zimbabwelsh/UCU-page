@@ -1,39 +1,42 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: About
+permalink: /about/
 ---
-<strong>Welcome to the Within Family Consortium<strong>
+<strong>Welcome to the Bristol Population Health Sciences UCU Page<strong>
 
-The Within Family Consortium is a group of researchers who are interested in using datasets of related individuals to understand how the human genome influences a broad range of medical and socioeconomic traits. Our research involves researchers, expertise and methods from a wide range of fields. We are keen to promote high quality reproducible research. 
+**About the PHS UCU**
 
-**Aims and objectives**
+We are the Population Health Sciences (PHS) UCU group. We come together occasionally (less so in recent times) to discuss what the UCU should do, and try to make sure that UCU members in PHS have somewhere they can make their voices heard. 
 
-1. To undertake within family analyses across all available studies that have sampled related individuals. 
-2. Estimate and understand direct and indirect genetic effects 
+**Who are we?**
 
-Direct genetic effects are the effects of inheriting an allele, indirect genetic effects are the effects due to other sources, e.g. demography, population stratification, assortative mating, and genetic nurture from relatives. 
+We are made up of employees within the Bristol PHS, we represent a range of workers including researchers, administrative staff, lecturers, IT services, postgraduate students and many more.
 
-The consortium aims to help undertake projects using datasets of related individuals. Many of these projects require a lot of data, and more samples than are available in any one study. Therefore the best way to conduct these studies is to run analyses in all available studies, that have capacity to contribute. The model we are currently using is to distribute automated scripts and pipelines to studies to minimize the requirement for analyst time at each study, this federated model removes the need to transfer data between institutions and countries. 
+Bristol PHS is extremely fortunate to have many active and vocal union members who are approachable (virtually) and willing to chat about union membership with anyone interested. 
 
-**Achievements thus far**
+**Why is the union so important right now?** 
 
-We have conducted a within family GWAS using data from 159,701 siblings from 17 cohorts to generate population (between-family) and within-sibship (within-family) estimates of per-locus genetic associations for 25 phenotypes.
+The COVID-19 pandemic has obviously changed the nature of working in academia and related industry, and left many of us isolated, working from home - and crucially unable to enjoy the benefits of our sociable and collegial office environment. As well as having obviously personal detrimental impacts, this also means that, as workers, we are more atomised and less able to reach out to other colleagues when things get tough. 
 
-**Executive & Steering Committees**
+We have created this website as a central place for PHS employees to find out more about their local union, and provide information for those who might want to join but not know where to start!
 
-We have established Executive & Steering Committees to oversee the development and management of the Within Family Consortium. The Executive Committee comprises:
+**How can I find out more?**
 
-Neil Davies, Laurence Howe, Gibran Hemani, Tim Morris, Ben Brumpton, and Alexandra Havdahl
+There are a few things you can do if you want to find out more. The most obvious one, given that you're here already, is to read more on the website here. If you would like to speak to existing UCU members in PHS to get a feel for why they've joined and what it means, then feel free to get in contact with us. 
 
-The Steering Group comprises:
+You can get in contact with the PHS representatives here:
 
-George Davey Smith, Peter Visscher, Per Magnus, Marcus Munafó, Rebecca Pearson, Camilla Stoltenberg, Bjørn Åsvold, David Evans, Sarah Medland, Dan Benjamin, Philipp Koellinger, Melinda Mills, Jonathan Beauchamp, Jaakko Kaprio, Caroline Hayward, Archie Campbell, Andrew McIntosh, Zhengming Chen, Iona  Millwood, Karl Heilbron, Michel Nivard, and Emla Fitzsimons.
+Integrative Epidemiology Unit Representatives:
 
-<strong>Acknowledgments<strong>
+[Gareth Griffith](mailto:g.griffith@bristol.ac.uk)
 
-The Medical Research Council (MRC) and the University of Bristol support the The Within Family Consortium [MC_UU_00011/1], and Gib Hemani's Wellcome Trust and Royal Society Henry Dale Fellowship [208806/Z/17/Z].
+[Paul Yousefi](mailto:paul.yousefi@bristol.ac.uk)
+
+Canynge Hall Representative:
+
+[David Troy](mailto:david.troy@bristol.ac.uk)
+
+![UCU Logo](/assets/ucu-logo.png)
 
 ![Bristol Logo](/assets/bristol.png)
-
-![MRC IEU Logo](/assets/mrc-ieu-logo.png)
