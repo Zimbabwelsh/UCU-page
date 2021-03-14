@@ -25,17 +25,6 @@ We have created this website as a central place for PHS employees to find out mo
 
 There are a few things you can do if you want to find out more. The most obvious one, given that you're here already, is to read more on the website here. If you would like to speak to existing UCU members in PHS to get a feel for why they've joined and what it means, then feel free to get in contact with us. 
 
-You can get in contact with the PHS representatives here:
-
-Integrative Epidemiology Unit Representatives:
-
-[Gareth Griffith](mailto:g.griffith@bristol.ac.uk)
-
-[Paul Yousefi](mailto:paul.yousefi@bristol.ac.uk)
-
-Canynge Hall Representative:
-
-[David Troy](mailto:david.troy@bristol.ac.uk)
 
 ![UCU Logo](/assets/ucu-logo.png)
 

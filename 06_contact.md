@@ -4,4 +4,14 @@ title: Contact
 permalink: /Contact/
 ---
 
-We welcome any feedback, questions, requests for further information or summary data, or invitations to collaborate. To reach the investigators please email [Neil Davies](mailto:neil.davies@bristol.ac.uk). 
+You can get in contact with the PHS representatives here:
+
+Integrative Epidemiology Unit Representatives:
+
+[Gareth Griffith](mailto:g.griffith@bristol.ac.uk)
+
+[Paul Yousefi](mailto:paul.yousefi@bristol.ac.uk)
+
+Canynge Hall Representative:
+
+[David Troy](mailto:david.troy@bristol.ac.uk)
