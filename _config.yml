@@ -30,7 +30,7 @@ twitter_username:
 github_username:  zimbabwelsh/UCU_page
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
