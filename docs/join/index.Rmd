@@ -3,19 +3,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>PHS UCU website | Population Health Sciences UCU Page.</title>
+<title>Join UCU | Population Health Sciences UCU Page.</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="PHS UCU website" />
+<meta property="og:title" content="Join UCU" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Welcome to the University and College Union (UCU) website for the Bristol University School of Population Health Sciences. We represent UCU-affiliated population health scientists in the Bristol Faculty of Health Sciences." />
 <meta property="og:description" content="Welcome to the University and College Union (UCU) website for the Bristol University School of Population Health Sciences. We represent UCU-affiliated population health scientists in the Bristol Faculty of Health Sciences." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
+<link rel="canonical" href="http://localhost:4000/join/" />
+<meta property="og:url" content="http://localhost:4000/join/" />
 <meta property="og:site_name" content="Population Health Sciences UCU Page." />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="PHS UCU website" />
+<meta property="twitter:title" content="Join UCU" />
 <script type="application/ld+json">
-{"@type":"WebSite","headline":"PHS UCU website","url":"http://localhost:4000/","description":"Welcome to the University and College Union (UCU) website for the Bristol University School of Population Health Sciences. We represent UCU-affiliated population health scientists in the Bristol Faculty of Health Sciences.","name":"Population Health Sciences UCU Page.","@context":"https://schema.org"}</script>
+{"@type":"WebPage","headline":"Join UCU","url":"http://localhost:4000/join/","description":"Welcome to the University and College Union (UCU) website for the Bristol University School of Population Health Sciences. We represent UCU-affiliated population health scientists in the Bristol Faculty of Health Sciences.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Population Health Sciences UCU Page." /></head>
 <body><header class="site-header" role="banner">
@@ -35,17 +35,23 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><h1 class="page-heading">PHS UCU website</h1><h1 id="phs-ucu-website">PHS UCU website</h1>
-<p>PHS UCU website</p>
-<h2 class="post-list-heading">Posts</h2>
-    <ul class="post-list"><li><span class="post-meta">Mar 14, 2021</span>
-        <h3>
-          <a class="post-link" href="/welcome/2021/03/14/Making-a-UCU-webpage.html">
-            Making a UCU Webpage!
-          </a>
-        </h3></li></ul>
+        <article class="post">
 
-    <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p></div>
+  <header class="post-header">
+    <h1 class="post-title">Join UCU</h1>
+  </header>
+
+  <div class="post-content">
+    The UCU is currently in a dispute with the USS over its recent valuation estimates for the pension scheme. 
+
+The UCU balloted and ultimately undertook a period of [successful industrial action in 2018](https://en.wikipedia.org/wiki/2018–2020_UK_higher_education_strikes). This functionally stopped the USS from changing the pension scheme from Defined Benefit (DB) to Defined Contribution (DC).
+
+The USS has recently attempted again to push through pension payment changes which would negatively impact all members of the USS scheme, but particularly those who are early in their careers. UCU has [pushed back against this](https://www.ucu.org.uk/article/11437/UCU-response-to-USS-trustee-update), and Universities UK have also stated that they feel the increased contributions are unreasonable and likely to result in industrial action. 
+
+The most recent valuation of the USS deficit was carried out in March 2020, whilst the COVID-19 pandemic and lockdown measures' effect on markets were at their greatest. This resulted in a predictably low valuation, which the USS is using as justification for demanding increased payments from all members of the pension scheme. 
+  </div>
+
+</article>
 
       </div>
     </main><footer class="site-footer h-card">
